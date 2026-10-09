@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Shivanshdubey09/FarmDirect" target="_blank">
+  <a href="https://github.com/SaakshiJha29/FarmDirect-project" target="_blank">
     <img src="public/images/leaf_clean.png" width="120" alt="FarmDirect Logo">
   </a>
 </p>
@@ -79,8 +79,8 @@ Follow these simple steps to run the application locally on your machine:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Shivanshdubey09/FarmDirect.git
-cd FarmDirect
+git clone https://github.com/SaakshiJha29/FarmDirect-project.git
+cd FarmDirect-project
 ```
 
 ### 2. Install dependencies
